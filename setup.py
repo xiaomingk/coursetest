@@ -1,7 +1,13 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+from setuptools import setup
 
-This is a temporary script file.
-"""
-
+setup(
+    name='pythoncourse',
+    version='0.0.1',
+    description='My python course',
+    url='https://github.com/xiaomingk/coursetest.git',
+    author='Xiaoming Kan',
+    author_email='kanx@chalmers.se',
+    license='unlicense',
+    packages=['ptolemaios'],
+    zip_safe=False
+)
