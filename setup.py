@@ -8,6 +8,6 @@ setup(
     author='Xiaoming Kan',
     author_email='kanx@chalmers.se',
     license='unlicense',
-    packages=['ptolemaios'],
+    packages=['pythoncourse'],
     zip_safe=False
 )
